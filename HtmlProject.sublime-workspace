@@ -1,0 +1,537 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"vi",
+				"visibility"
+			],
+			[
+				"per",
+				"percent"
+			],
+			[
+				"ro",
+				"rotcam"
+			],
+			[
+				"fu",
+				"function"
+			],
+			[
+				"G",
+				"Gold"
+			],
+			[
+				"gol",
+				"gold"
+			],
+			[
+				"Lo",
+				"load_cb"
+			],
+			[
+				"V",
+				"vg"
+			],
+			[
+				"v",
+				"visible"
+			],
+			[
+				"ge",
+				"getElementById"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "car.html",
+			"settings":
+			{
+				"buffer_size": 5311,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "Pathfinder.html",
+			"settings":
+			{
+				"buffer_size": 5315,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "Priora.html",
+			"settings":
+			{
+				"buffer_size": 5311,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "Vaz07.html",
+			"settings":
+			{
+				"buffer_size": 5310,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "Patriot.html",
+			"settings":
+			{
+				"buffer_size": 5312,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "A4.html",
+			"settings":
+			{
+				"buffer_size": 5307,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/SteamLibrarySSD/Blend4Web-17.04.1/deploy/assets/tutorials/sunglasses/sunglasses.html",
+		"/C/SteamLibrarySSD/Blend4Web-17.04.1/apps_dev/webplayer/webplayer.js",
+		"/C/SteamLibrarySSD/Blend4Web-17.04.1/projects/Car/Car.min.css",
+		"/C/SteamLibrarySSD/Blend4Web-17.04.1/projects/Car/q7.html",
+		"/C/SteamLibrarySSD/Blend4Web-17.04.1/projects/Car/car.html",
+		"/C/Users/GarikDog/Desktop/Simple-Circle-Progress-Indicator-Plugin-with-jQuery-CSS3-Progress-Circle/README.md",
+		"/C/SteamLibrarySSD/Blend4Web-17.04.1/projects/Car/Q7.js",
+		"/C/SteamLibrarySSD/Blend4Web-17.04.1/projects/Car/Car.min.js",
+		"/C/SteamLibrarySSD/Blend4Web-17.04.1/projects/Car/progress-circle.js",
+		"/C/SteamLibrarySSD/Blend4Web-17.04.1/projects/Car/css/circle.css",
+		"/C/SteamLibrarySSD/Blend4Web-17.04.1/apps_dev/webplayer/webplayer.css",
+		"/C/Users/GarikDog/AppData/Local/Temp/Rar$DRa0.406/css/style.css",
+		"/C/Users/GarikDog/AppData/Local/Temp/Rar$DRa0.542/css-percentage-circle-master/css/circle.css",
+		"/C/Users/GarikDog/AppData/Local/Temp/Rar$DRa0.033/css/style.css",
+		"/C/SteamLibrarySSD/Blend4Web-17.04.1/projects/Car/Q7.html",
+		"/C/SteamLibrarySSD/Blend4Web-17.04.1/projects/Car/Car.html",
+		"/C/SteamLibrarySSD/blend4web_ce/deploy/apps/common/b4w.simple.min.js",
+		"/C/SteamLibrarySSD/blend4web_ce/projects/cars2/b4w.simple.min.js",
+		"/C/SteamLibrarySSD/blend4web_ce/projects/Car/b4w.simple.min.js",
+		"/C/SteamLibrarySSD/blend4web_ce/projects/cars2/cars2.js",
+		"/C/SteamLibrarySSD/blend4web_ce/projects/Car/Car.min.js",
+		"/C/SteamLibrarySSD/blend4web_ce/projects/1/Car.html",
+		"/C/SteamLibrarySSD/blend4web_ce/projects/1/resize.js",
+		"/C/SteamLibrarySSD/blend4web_ce/projects/1/Car.min.js",
+		"/C/SteamLibrarySSD/blend4web_ce/projects/CarVithChange/Car.html",
+		"/C/SteamLibrarySSD/blend4web_ce/projects/CarVithChange/Car.min.js",
+		"/C/Users/GarikDog/Desktop/Car/1/TestPage/Car.html",
+		"/C/Users/GarikDog/Desktop/Car/1/TestPageWithSelect/Car.html",
+		"/C/Users/GarikDog/Desktop/Car/1/TestPageWithSelect/Car.min.js",
+		"/C/Users/GarikDog/Desktop/Car/b4w.simple.min.js",
+		"/C/Users/GarikDog/Desktop/Car/1/TestPage/assets/Car.json",
+		"/C/Users/GarikDog/Desktop/Car/resize.js",
+		"/C/Users/GarikDog/Desktop/Car/1/TestPage/Car.min.js",
+		"/C/Users/GarikDog/Desktop/Car/1/TestPage/b4w.simple.min.js",
+		"/C/Users/GarikDog/Desktop/Car/Car.min.js",
+		"/C/Users/GarikDog/Desktop/Car/Car.html"
+	],
+	"find":
+	{
+		"height": 40.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"js",
+			"A4",
+			"js",
+			"q7",
+			"perce",
+			"ful",
+			"full",
+			"load",
+			"m_ct",
+			"m_ctr",
+			"camer",
+			"Ocar'",
+			"Ocar",
+			"m_mat",
+			"logo",
+			"prelo",
+			"json",
+			"preloa",
+			"90c844",
+			"color",
+			"colo",
+			"vg",
+			"colo",
+			"pre",
+			"prelo",
+			";\n",
+			"z-in",
+			"$( '#circle' ).progressCircle()",
+			"nPercent",
+			"js",
+			"preloader_cb",
+			"percentage",
+			"PRELOA",
+			"load",
+			"pre",
+			"preload",
+			"js",
+			"prelo",
+			"count",
+			"preloa",
+			"full",
+			"car.h",
+			"car.ht",
+			"q7",
+			"jaso",
+			"js",
+			"q7",
+			"gloss",
+			"tab",
+			"gzi",
+			"gz",
+			"json",
+			"gzip",
+			"gz",
+			"gzip",
+			"json",
+			"js",
+			"json",
+			"jso",
+			"car",
+			"json",
+			"vg",
+			"css",
+			"vg",
+			"car",
+			"css",
+			"vg",
+			"\"vg\"",
+			"Car",
+			"Car.min",
+			"vg",
+			"\"vg\"",
+			"vg"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 4,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "car.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 5311,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2600,
+								2600
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 585.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 4,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "Pathfinder.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 5315,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								5211,
+								5211
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 1526.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "Priora.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 5311,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								5311,
+								5311
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 1526.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "Vaz07.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 5310,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								5310,
+								5310
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 1076.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "Patriot.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 5312,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								5312,
+								5312
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 1031.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "A4.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 5307,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2900,
+								2752
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 761.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 5,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 23.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "HtmlProject.sublime-project",
+	"replace":
+	{
+		"height": 42.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
